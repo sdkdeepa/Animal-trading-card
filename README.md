@@ -39,4 +39,4 @@ Feel free to customize your information and styles so long as you follow the abo
 
 # Final Screensshot
 
-![Final Screenshot](https://github.com/sdkdeepa/Animal-trading-card/tree/main/screenshot)
+![Final Screenshot](https://github.com/sdkdeepa/Animal-trading-card/blob/main/screenshot/final-screenshot.png)
