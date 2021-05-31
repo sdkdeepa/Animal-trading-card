@@ -1,4 +1,4 @@
-# animal-trading-cards
+# Animal-trading-cards
 Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
 
 # Rubrics Details
